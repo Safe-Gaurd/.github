@@ -32,11 +32,14 @@ NaviGuard aligns with the United Nations Sustainable Development Goals (SDGs), s
 - **Authentication**: Google OAuth
 
 ## GitHub Organization & Repositories
-NaviGuard is maintained under the GitHub organization SafeGuard, which hosts multiple repositories related to the project:
-- **NaviGuard Application** – The main mobile application built with Flutter.
-- **NaviGuard QR App** – A QR-based application for quick access and authentication.
-- **NaviGuard ML Model** – Machine learning models used for accident detection and predictions.
-- **AI Assistance Chatbot** – AI chatbot providing assistance within the app.
+
+NaviGuard is maintained under the GitHub organization **SafeGuard**, which hosts multiple repositories related to the project:
+
+- **[NaviGuard Application](https://github.com/Safe-Gaurd/NaviGuard.git)** – The main mobile application built with Flutter.
+- **[NaviGuard QR App](https://github.com/Safe-Gaurd/NaviGuardQR.git)** – A QR-based application for quick access and authentication.
+- **[NaviGuard ML Model](https://github.com/Safe-Gaurd/NaviGaurd_ML_Model.git)** – Machine learning models used for accident detection and predictions.
+- **[AI Assistance Chatbot](https://github.com/Safe-Gaurd/AI_Assisstance_ChatBot.git)** – AI chatbot providing assistance within the app.
+
 
 ## Installation & Setup
 ### Prerequisites
