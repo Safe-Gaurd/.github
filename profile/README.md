@@ -28,7 +28,7 @@ NaviGuard aligns with the United Nations Sustainable Development Goals (SDGs), s
 - **Cloud Storage**: Firebase Storage, Cloudinary
 - **Hosting**: GitHub Pages (for website deployment), Render(for Models deployment)
 - **AI & ML**: AI-powered chatbot(Gemini 2.0 Flash Experimental)
-- **Maps & Navigation**: Google Maps API
+- **Maps & Navigation**: Google Maps API, OSRM API(Routing)
 - **Authentication**: Google OAuth
 
 ## GitHub Organization & Repositories
