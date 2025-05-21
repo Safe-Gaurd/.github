@@ -30,6 +30,7 @@ NaviGuard aligns with the United Nations Sustainable Development Goals (SDGs), s
 - **AI & ML**: AI-powered chatbot(Gemini 2.0 Flash Experimental)
 - **Maps & Navigation**: Google Maps API, OSRM API(Routing)
 - **Authentication**: Google OAuth
+- **Weather Data**: Open Weather Map API
 
 ## GitHub Organization & Repositories
 
